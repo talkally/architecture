@@ -1,6 +1,6 @@
 # ADR-017: n8n Webhook for Email Delivery
 
-**Date:** November 2025  
+**Date:** February 2026
 **Status:** Accepted  
 **Author:** Roman Gudkov, INTERprise Technologies
 
