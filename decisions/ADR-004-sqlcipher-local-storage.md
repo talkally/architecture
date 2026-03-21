@@ -1,6 +1,6 @@
 # ADR-004: SQLCipher for Local Storage
 
-**Date:** October 2025  
+**Date:** November 2025  
 **Status:** Accepted  
 **Author:** Roman Gudkov, INTERprise Technologies
 
