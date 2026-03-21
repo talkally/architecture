@@ -28,6 +28,7 @@ ADRs document significant architectural decisions made during development — wh
 | [ADR-018](ADR-018-privacy-first-architecture.md) | Privacy-First, On-Device Architecture Principle | Accepted |
 | [ADR-019](ADR-019-tester-end-user-build-flags.md) | Tester vs End-User Build Flag System | Accepted |
 | [ADR-020](ADR-020-android-exact-alarm-permissions.md) | Android Notification Exact Alarm Permissions | Accepted |
+| [ADR-021](ADR-021-email-delivery-amazon-ses.md) | Email Delivery via Amazon SES with Geo-Location Routing | Accepted |
 
 ## ADR Format
 
