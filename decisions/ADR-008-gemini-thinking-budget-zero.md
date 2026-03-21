@@ -1,6 +1,6 @@
 # ADR-008: thinkingBudget:0 for Gemini Text Mode with Functions
 
-**Date:** March 2026  
+**Date:** December 2025
 **Status:** Accepted  
 **Author:** Roman Gudkov, INTERprise Technologies
 
