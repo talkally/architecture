@@ -1,6 +1,6 @@
 # ADR-019: Tester vs End-User Build Flag System
 
-**Date:** November 2025  
+**Date:** February 2026
 **Status:** Accepted  
 **Author:** Roman Gudkov, INTERprise Technologies
 
