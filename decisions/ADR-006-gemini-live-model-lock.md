@@ -1,6 +1,6 @@
 # ADR-006: Gemini Live Model Locked to gemini-2.5-flash-native-audio-preview
 
-**Date:** February 2026  
+**Date:** December 2025
 **Status:** Accepted  
 **Author:** Roman Gudkov, INTERprise Technologies
 
