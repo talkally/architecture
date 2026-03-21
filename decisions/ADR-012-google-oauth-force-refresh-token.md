@@ -1,6 +1,6 @@
 # ADR-012: Google OAuth with forceCodeForRefreshToken:true
 
-**Date:** March 2026  
+**Date:** January 2026 
 **Status:** Accepted  
 **Author:** Roman Gudkov, INTERprise Technologies
 
