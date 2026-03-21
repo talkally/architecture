@@ -1,6 +1,6 @@
 # ADR-020: Android Notification Exact Alarm Permissions
 
-**Date:** February 2026  
+**Date:** March 2026  
 **Status:** Accepted  
 **Author:** Roman Gudkov, INTERprise Technologies
 
