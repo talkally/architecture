@@ -1,6 +1,6 @@
 # ADR-014: FlutterSecureStorage for OAuth Tokens
 
-**Date:** October 2025  
+**Date:** January 2026
 **Status:** Accepted  
 **Author:** Roman Gudkov, INTERprise Technologies
 
