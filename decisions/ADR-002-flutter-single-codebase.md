@@ -1,6 +1,6 @@
 # ADR-002: Flutter as Single Cross-Platform Codebase
 
-**Date:** October 2025  
+**Date:** November 2025  
 **Status:** Accepted  
 **Author:** Roman Gudkov, INTERprise Technologies
 
