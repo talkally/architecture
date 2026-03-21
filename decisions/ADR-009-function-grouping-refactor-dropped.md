@@ -1,6 +1,6 @@
 # ADR-009: Function Grouping Refactor Dropped After 1011 Root Cause Confirmed
 
-**Date:** March 2026  
+**Date:** January 2026
 **Status:** Superseded / Dropped  
 **Author:** Roman Gudkov, INTERprise Technologies
 
