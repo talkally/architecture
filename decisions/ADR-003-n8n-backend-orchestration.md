@@ -1,6 +1,6 @@
 # ADR-003: n8n on Hostinger VPS as Backend Orchestration Layer
 
-**Date:** October 2025  
+**Date:** November 2025  
 **Status:** Accepted  
 **Author:** Roman Gudkov, INTERprise Technologies
 
