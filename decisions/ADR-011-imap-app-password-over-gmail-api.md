@@ -1,6 +1,6 @@
 # ADR-011: IMAP + App Password Over Gmail API
 
-**Date:** February 2026  
+**Date:** January 2026
 **Status:** Accepted  
 **Author:** Roman Gudkov, INTERprise Technologies
 
