@@ -1,6 +1,6 @@
 # ADR-018: Privacy-First, On-Device Architecture Principle
 
-**Date:** October 2025  
+**Date:** February 2026
 **Status:** Accepted  
 **Author:** Roman Gudkov, INTERprise Technologies
 
