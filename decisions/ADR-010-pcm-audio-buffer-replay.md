@@ -1,6 +1,6 @@
 # ADR-010: PCM Audio Buffer Replay on 1011 Crash Recovery
 
-**Date:** March 2026  
+**Date:** January 2026
 **Status:** Accepted  
 **Author:** Roman Gudkov, INTERprise Technologies
 
