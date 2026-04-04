@@ -1,16 +1,18 @@
 # TalkAlly Architecture
 
-This repository contains the full architecture documentation for TalkAlly — a privacy-first, AI-powered Voice and Text assistant for Android.
+This repository contains the Architecture Decision Records (ADRs) for TalkAlly — a privacy-first, AI-powered Voice and Text assistant for Android.
 
 **Principal Architect:** Roman Gudkov, INTERprise Technologies  
-**Portfolio:** https://talkally.atlassian.net/wiki/spaces/TA/overview
+**Full Portfolio:** https://talkally.atlassian.net/wiki/spaces/TA/overview
 
 ## What's in this Repository
 
 - [Architecture Decision Records](/decisions/README.md) — 22 ADRs covering every major technology and design decision
-- C4 Diagrams — System Context, Container, and Deployment diagrams
-- Architecture Principles — 10 principles governing every design trade-off
-- Technology Radar — 25 technologies evaluated across Adopt, Trial, Assess, Hold rings
+
+## Full Architecture Portfolio on Confluence
+
+The complete architecture documentation including C4 diagrams, Architecture Principles, and Technology Radar is published at:  
+https://talkally.atlassian.net/wiki/spaces/TA/overview
 
 ## About TalkAlly
 
